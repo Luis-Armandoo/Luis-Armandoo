@@ -18,9 +18,10 @@
 
 <h1 align="center">
   OLá Mundo!
-  <img 
+<!--   <img
     src=
     width="30px">
+-->
   <br />
   Bem-Vindo ao meu perfil!!!
 </h1>

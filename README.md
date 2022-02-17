@@ -27,9 +27,11 @@
 <p>
   
 
-<h1 align="center">👨‍💻 Mais sobre mim 👨‍💻</h1>
+<h2 align="center">👨‍💻 Mais sobre mim 👨‍💻</h2>
 
-<img align="right" width="420px" height="405px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />	
+<img align="right" width="420px" height="405px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />
+
+
 
 ```javascript
  
@@ -55,7 +57,6 @@ const aboutMe = {
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!--   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Armandoo&layout=compact&langs_count=7&theme=dracula"/>  -->
 </div>
 
 <h1></h1>

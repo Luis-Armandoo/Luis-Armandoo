@@ -1,3 +1,19 @@
+<table>
+      <h2>Language/Idioma</h2>
+  <tr>
+    <td>
+      <a href="README.md">🇺🇸 English | Inglês</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="readme_pt-br.md">🇧🇷 Portuguese | Português</a>
+    </td>
+  </tr>
+</table>
+
+
+
 <h2> Olá! Eu sou o Luis Armando </h2>
 
 <h1 align="center">
@@ -9,7 +25,7 @@
   Bem-Vindo ao meu perfil!!!
 </h1>
 
-  
+
 <p align=center>
 <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Luis+Armando;I'm+Junior;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+facilitate"/>
 <p>

@@ -1,12 +1,12 @@
 <h2> Olá! Eu sou o Luis Armando </h2>
 
 <h1 align="center">
-  Hello World!
+  OLá Mundo!
   <img 
-    src="https://raw.githubusercontent.com/Luis-Armandoo/Luis-Armandoo/master/gifs/Hi.gif"
+    src=
     width="30px">
   <br />
-  Welcome to my Profile!!!
+  Bem-Vindo ao meu perfil!!!
 </h1>
 
 
@@ -16,9 +16,9 @@
 <p>
 -->
 
-<h2 align="center">👾 Sobre mim 👾</h2>
+<h1 align="center">👾 Sobre mim 👾</h1>
 
-<img align="right" width="320" height="320" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
+<img align="right" width="400" height="350" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
 
 
 

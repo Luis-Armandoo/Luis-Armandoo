@@ -30,7 +30,7 @@
 <!-- gif grande  -->
 <h1 align="center">👨‍💻 Olá! Eu sou o Luis Armando 👨‍💻</h1>
 
-<img align="right" width="180px" height="180px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />	
+<img align="right" width="490px" height="300px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />	
 
 <!-- estatus -->
 <div align="center">

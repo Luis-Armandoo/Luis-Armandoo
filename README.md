@@ -37,7 +37,7 @@ Welcome to my Profile!!!
 <!--  gif grande -->
 <h1 align="center">👨‍💻 More about me 👨‍💻</h1>
 
-<img align="right" width="420px" height="420px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />
+<img align="right" width="320px" height="320px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />
 
 
 <!-- NIvel e Status -->

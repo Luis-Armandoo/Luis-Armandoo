@@ -29,10 +29,10 @@
       <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Luis+Armando;I'm+Junior;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+facilitate"/>
 <p>
   
-  
+<!--  gif grande -->
 <h1 align="center">👨‍💻 More about me 👨‍💻</h1>
 
-<img align="right" width="520" height="400" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />	
+<img align="center" width="499" height="499" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />	
 
 
 

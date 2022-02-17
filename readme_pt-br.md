@@ -13,29 +13,21 @@
 </table>
 
 
-
-<h2> Olá! Eu sou o Luis Armando </h2>
-
 <h1 align="center">
   OLá Mundo!
-<!--   <img
-    src=
-    width="30px">
--->
+<img aling= />👋
   <br />
   Bem-Vindo ao meu perfil!!!
 </h1>
 
 
 <p align=center>
-      <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Luis+Armando;Sou+Júnior;Gosto+de+criar%2C+adaptar+e+facilitar"/>
+      <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Luis+Armando;Sou+Desenvolvedor+Júnior;Gosto+de+criar%2C+adaptar+e+facilitar"/>
 <p>
   
-  
-<h1 align="center">👾 Sobre mim 👾</h1>
+<h1 align="center">👨‍💻 Olá! Eu sou o Luis Armando 👨‍💻</h1>
 
-<img align="right" width="320" height="320" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
-
+<img align="right" width="330" height="320" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
 
 
 <div align="center">

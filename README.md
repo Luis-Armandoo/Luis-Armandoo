@@ -1,9 +1,26 @@
-## Olá! Eu sou o Luis Armando
+<h2> Olá! Eu sou o Luis Armando </h2>
 
-- 👀  Tenho interesse em aprender mais
-- 🌱 Atualmente estou aprendendo a lógica de programação
-- 💞️ Tenho o foco de ajudar em diversos projetos
-- 😄 Pronomes: ele/dele
+<h1 align="center">
+  Hello World!
+  <img 
+    src="https://raw.githubusercontent.com/Luis-Armandoo/Luis-Armandoo/master/gifs/Hi.gif"
+    width="30px">
+  <br />
+  Welcome to my Profile!!!
+</h1>
+
+
+<!--  
+<p align=center>
+<img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Luis+Armando;I'm+Junior+Web+Dev;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+reformulate"/>
+<p>
+-->
+
+<h2 align="center">👾 Sobre mim 👾</h2>
+
+<img align="right" width="420" height="420" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
+
+
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

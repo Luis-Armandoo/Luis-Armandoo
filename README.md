@@ -32,7 +32,7 @@
 <!--  gif grande -->
 <h1 align="center">👨‍💻 More about me 👨‍💻</h1>
 
-<img align="center" width="499" height="499" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />	
+<img align="right" width="180px" height="180px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />	
 
 
 

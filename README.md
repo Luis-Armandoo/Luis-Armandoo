@@ -31,6 +31,30 @@
 
 <img align="right" width="320px" height="320px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />	
 
+```javascript
+ 
+const aboutMe = {
+  user: "Danillo Silva",
+  pronouns: "He" | "His",
+  function: "full-stack",
+  current_education: "UNINABUCO",
+  hobbies: [
+  "Studying",
+  "Watching (animes, series and movies)",
+  "Electronic games",
+  "To stay up all night chasing that ONE '; '!..." ]
+ }
+ 
+ function getCurrentCity() {
+	return Paulista-PE_Brazil
+  }
+  
+  function Ambitions() {
+	findOutWhy42IsTheAnswerToEverything()
+	preventSkyNetCreation()
+	becomeImmortal()
+	}
+ ```
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

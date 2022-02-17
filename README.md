@@ -34,19 +34,16 @@
 ```javascript
  
 const aboutMe = {
-  user: "Danillo Silva",
-  pronouns: "He" | "His",
-  function: "full-stack",
-  current_education: "UNINABUCO",
-  hobbies: [
-  "Studying",
+  user: "Luis Armando",
+  pronouns: "Ele" | "Dele",
+  current_education: "UNINASSAU",
+  hobbies: "Studying",
   "Watching (animes, series and movies)",
   "Electronic games",
-  "To stay up all night chasing that ONE '; '!..." ]
  }
  
  function getCurrentCity() {
-	return Paulista-PE_Brazil
+	return São_Luís-MA_Brazil
   }
   
   function Ambitions() {

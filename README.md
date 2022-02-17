@@ -54,19 +54,24 @@ const aboutMe = {
 	becomeImmortal()
 	}
  ```
-
-<h1></h1>
   
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+</div> -->
   
 <h1></h1>
  
 <div align="center">
   <a href="https://www.youtube.com/channel/UC_4ER_KHcnb-ZBrsD64bGWQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_foxzada_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+	
+	
+<div
+ <div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
  ![Snake animation](https://github.com/Luis-Armandoo/Luis-Armandoo/blob/output/github-contribution-grid-snake.svg)
  
 </div>

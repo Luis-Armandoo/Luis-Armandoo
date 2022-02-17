@@ -29,7 +29,7 @@
 
 <h2 align="center">👨‍💻 Mais sobre mim 👨‍💻</h2>
 
-<img align="right" width="420px" height="389px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />
+<img align="right" width="420px" height="379px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />
 
 
 

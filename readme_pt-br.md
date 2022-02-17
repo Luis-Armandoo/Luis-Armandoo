@@ -1,3 +1,4 @@
+<!--Linguagem  -->
 <table>
       <h2>Language/Idioma</h2>
   <tr>
@@ -12,7 +13,7 @@
   </tr>
 </table>
 
-
+<!-- titulo -->
 <h1 align="center">
   OLá Mundo!
 <img src="https://c.tenor.com/_4EQjxYqQawAAAAi/thumbs-up.gif"
@@ -21,16 +22,17 @@
   Bem-Vindo ao meu perfil!!!
 </h1>
 
-
+<!-- letreiro -->
 <p align=center>
       <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Luis+Armando;Sou+Desenvolvedor+Júnior;Gosto+de+criar%2C+adaptar+e+facilitar"/>
 <p>
   
+<!-- gif grande  -->
 <h1 align="center">👨‍💻 Olá! Eu sou o Luis Armando 👨‍💻</h1>
 
-<img align="right" width="330" height="320" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
+<img align="right" width="520" height="400" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />	
 
-
+<!-- estatus -->
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <!--   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Armandoo&layout=compact&langs_count=7&theme=dracula"/>  -->

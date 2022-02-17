@@ -55,10 +55,6 @@ const aboutMe = {
 	}
  ```
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <h1></h1>
   
 <div style="display: inline_block"><br>

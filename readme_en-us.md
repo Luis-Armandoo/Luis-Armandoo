@@ -13,8 +13,6 @@
 </table>
 
 
-
-
 <h1 align="center">
 Hello World!
       <img src="https://c.tenor.com/_4EQjxYqQawAAAAi/thumbs-up.gif"
@@ -46,7 +44,7 @@ Welcome to my Profile!!!
 
 <h1></h1>
 
-<div> 
+<div align="center">
   <a href="https://www.youtube.com/channel/UC_4ER_KHcnb-ZBrsD64bGWQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_foxzada_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 

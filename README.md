@@ -13,16 +13,16 @@
 </table>
 
 
+<h2> Hi! I'm Luis Armando </h2>
 
-<h2> Olá! Eu sou o Luis Armando </h2>
 
 <h1 align="center">
-  OLá Mundo!
+  Hello World!
   <img 
     src=
     width="30px">
   <br />
-  Bem-Vindo ao meu perfil!!!
+  Welcome to my Profile!!!
 </h1>
 
 
@@ -31,7 +31,7 @@
 <p>
   
   
-<h1 align="center">👾 Sobre mim 👾</h1>
+<h1 align="center">👾 More about me 👾</h1>
 
 <img align="right" width="320" height="320" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
 

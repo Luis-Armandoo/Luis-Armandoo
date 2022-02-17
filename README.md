@@ -18,10 +18,7 @@
 
 <h1 align="center">
   Hello World!
-<!--   <img
-    src=
-    width="30px">
--->
+      <img aling= />👋
   <br />
   Welcome to my Profile!!!
 </h1>
@@ -32,7 +29,7 @@
 <p>
   
   
-<h1 align="center">👾 More about me 👾</h1>
+<h1 align="center">👨‍💻 More about me 👨‍💻</h1>
 
 <img align="right" width="320" height="320" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
 

@@ -18,7 +18,7 @@
 
 <h2 align="center">👾 Sobre mim 👾</h2>
 
-<img align="right" width="420" height="420" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
+<img align="right" width="320" height="320" src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" />	
 
 
 

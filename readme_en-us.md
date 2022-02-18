@@ -34,28 +34,25 @@ Welcome to my Profile!!!
 
 ```javascript
  
-const sobreMim = {
-  usuario: "Danillo Silva",
-  pronomes: "Ele" | "Dele",
-  função: "full-stack",
-  educação_atual: "UNINABUCO",
-  hobbies: [
-  "Estudar",
-  "Assistir (animes, séries e filmes)",
-  "Jogos eletrônicos",
-  "Ficar acordado a noite toda perseguindo aquele ÚNICO  ' ; ' ! ... " ]
+const aboutMe = {
+  user: "Luis Armando",
+  pronouns: "Ele" | "Dele",
+  current_education: "UNINASSAU",
+  hobbies: "Studying",
+  "Watching (animes, series and movies)",
+  "Electronic games",
  }
  
- function getCidadeAtual() {
-	return Paulista-PE_Brasil
+ function getCurrentCity() {
+	return São_Luís-MA_Brazil
   }
   
-  function Ambições() {
-	descobrirPorque42ÉrespostaParaTudo()
-	impedirCriaçãoDaSkyNet()
-	meTornarImortal()
+  function Ambitions() {
+	findOutWhy42IsTheAnswerToEverything()
+	preventSkyNetCreation()
+	becomeImmortal()
 	}
-```
+ ```
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

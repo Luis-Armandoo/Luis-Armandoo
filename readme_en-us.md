@@ -36,7 +36,7 @@ Welcome to my Profile!!!
  
 const aboutMe = {
   user: "Luis Armando",
-  pronouns: "Ele" | "Dele",
+  pronouns: "He" | "His",
   current_education: "UNINASSAU",
   hobbies: "Studying",
   "Watching (animes, series and movies)",

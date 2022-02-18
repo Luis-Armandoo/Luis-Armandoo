@@ -29,7 +29,7 @@
 
 <h2 align="center">👨‍💻 Mais sobre mim 👨‍💻</h2>
 
-<img align="right" width="420px" height="359px" src="https://24.media.tumblr.com/b4ded5e98873eb77da17b062408925bb/tumblr_msu0miicUw1s3wjuno1_500.gif" />
+<img align="right" width="420px" height="359px" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" />
 
 
 

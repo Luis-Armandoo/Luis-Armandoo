@@ -36,12 +36,12 @@
 ```javascript
  
 const aboutMe = {
-  user: "Luis Armando",
-  pronouns: "Ele" | "Dele",
-  current_education: "UNINASSAU",
-  hobbies: "Studying",
-  "Watching (animes, series and movies)",
-  "Electronic games",
+  usuário: "Luis Armando",
+  pronomes: "Ele" | "Dele",
+  educação_atual: "UNINASSAU",
+  hobbies: "Estudar",
+  "Assistindo (animes, séries e filmes)",
+  "Jogos eletronicos",
  }
  
  function getCurrentCity() {

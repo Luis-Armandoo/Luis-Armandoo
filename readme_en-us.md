@@ -29,7 +29,7 @@ Welcome to my Profile!!!
 
 <h1 align="center">👨‍💻 More about me 👨‍💻</h1>
 
-<img align="right" width="320px" height="320px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />
+<img align="right" width="420px" height="359px" src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" />
 
 
 ```javascript
@@ -54,11 +54,6 @@ const aboutMe = {
 	}
  ```
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!-- <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Armandoo&layout=compact&langs_count=7&theme=dracula"/> -->
-</div>
-
 <h1></h1>
 
 <div style="display: inline_block"><br>
@@ -71,5 +66,10 @@ const aboutMe = {
   <a href="https://www.youtube.com/channel/UC_4ER_KHcnb-ZBrsD64bGWQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_foxzada_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+	
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!-- <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Armandoo&layout=compact&langs_count=7&theme=dracula"/> -->
+</div>	
 
 ![Snake animation](https://github.com/Luis-Armandoo/Luis-Armandoo/blob/output/github-contribution-grid-snake.svg)

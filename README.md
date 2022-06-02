@@ -15,8 +15,7 @@
 
 <h1 align="center">
   OLá Mundo!
-<img src="https://c.tenor.com/_4EQjxYqQawAAAAi/thumbs-up.gif"
-    width="35px">
+<img  width="35px" height="35px" src="https://c.tenor.com/_4EQjxYqQawAAAAi/thumbs-up.gif">
   <br />
   Bem-Vindo ao meu perfil!!!
 </h1>

@@ -28,9 +28,9 @@
 
 <h2 align="center">👨‍💻 Mais sobre mim 👨‍💻</h2>
 
-<img align="right" width="400px" height="359px" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" />
+<img align="right" width="420px" height="420px" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" />
 
-
+<div
 
 ```javascript
  
@@ -53,7 +53,7 @@ const aboutMe = {
 	becomeImmortal()
 	}
  ```
-  
+>
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> -->

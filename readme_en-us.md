@@ -1,4 +1,4 @@
-<table>
+<table  align=center>
       <h2>Language/Idioma</h2>
   <tr>
     <td>

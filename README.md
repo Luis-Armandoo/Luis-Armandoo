@@ -1,6 +1,7 @@
 <div>
-<table  align=center>
-      <h2>Language/Idioma</h2>
+<table
+	<h2>Language/Idioma</h2>
+	
   <tr>
     <td>
       <a href="README.md">🇧🇷 Portuguese | Português</a>
@@ -15,7 +16,7 @@
 
 
 <h1 align="center">
-  OLá Mundo!
+  OLá Dev's!
 <img  width="35px" height="35px" src="https://c.tenor.com/_4EQjxYqQawAAAAi/thumbs-up.gif">
   <br />
   Bem-Vindo ao meu perfil!!!
@@ -57,21 +58,4 @@ const aboutMe = {
      
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-<h1></h1>
- 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UC_4ER_KHcnb-ZBrsD64bGWQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_foxzada_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	
-	
-<div
- <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
- ![Snake animation](https://github.com/Luis-Armandoo/Luis-Armandoo/blob/output/github-contribution-grid-snake.svg)
- 
 </div>

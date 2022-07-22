@@ -32,32 +32,6 @@ Welcome to my Profile!!!
 <img align="right" width="420px" height="359px" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" />
 
 
-```javascript
- 
-const aboutMe = {
-  user: "Luis Armando",
-  pronouns: "He" | "His",
-  current_education: "UNINASSAU",
-  hobbies: "Studying",
-  "Watching (animes, series and movies)",
-  "Electronic games",
- }
- 
- function getCurrentCity() {
-	return São_Luís-MA_Brazil
-  }
-  
-  function Ambitions() {
-	findOutWhy42IsTheAnswerToEverything()
-	preventSkyNetCreation()
-	becomeImmortal()
-	}
- ```
-
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div> -->
-
 <h1></h1>
 
 <div align="center">
@@ -65,9 +39,6 @@ const aboutMe = {
   <a href="https://www.instagram.com/_foxzada_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 	
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!-- <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Armandoo&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>	
 
 ![Snake animation](https://github.com/Luis-Armandoo/Luis-Armandoo/blob/output/github-contribution-grid-snake.svg)

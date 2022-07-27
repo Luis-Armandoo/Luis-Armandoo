@@ -23,9 +23,10 @@ Welcome to my Profile!!!
 
 
 <p align=center>
-<img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Luis+Armando;I'm+Junior;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+facilitate"/>
-<p>
-
+   <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%237E3ACE&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=I'm+Luis+Armando;I'm+Junior;Studying+systems+analysis+and+development;I+like+to+create%2C+adapt+and+facilitate"/>
+<p>	
+	
+		
 <div align="center">
       <img width="420px" height="420px" src="https://acegif.com/wp-content/gif/anime-sleep-75.gif"/>
 </div>

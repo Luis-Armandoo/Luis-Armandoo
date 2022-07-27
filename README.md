@@ -29,7 +29,7 @@
 <p>
 
 <div align="center">
-	<img width="900px" height="900px" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif"/>
+	<img width="700px" height="500px" src="https://acegif.com/wp-content/gif/anime-sleep-75.gif"/>
 </div>
      
 <div style="display: inline_block">

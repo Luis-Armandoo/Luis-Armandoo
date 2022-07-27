@@ -29,7 +29,7 @@
 <p>
 
 <div align="center">
-	<img width="300px" height="300px" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif"/>
+	<img width="900px" height="900px" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 </div>
      
 <div style="display: inline_block">

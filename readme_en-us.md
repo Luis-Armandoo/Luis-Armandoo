@@ -27,7 +27,12 @@ Welcome to my Profile!!!
 <p>
 
 <div align="center">
-<img width="420px" height="420px" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
+      <img width="420px" height="420px" src="https://acegif.com/wp-content/gif/anime-sleep-75.gif"/>
+</div>
+
+<div style="display: inline_block">
+	<br>
+	<img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 

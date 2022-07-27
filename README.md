@@ -27,11 +27,9 @@
 <p align=center>
       <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%235A0C5A&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Luis+Armando;Sou+Desenvolvedor+Júnior;Gosto+de+criar%2C+adaptar+e+facilitar"/>
 <p>
-  
-<h2 align="center">👨‍💻 Mais sobre mim 👨‍💻</h2>
 
 <div align="center">
-<img width="420px" height="420px" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" />
+<img width="420px" height="420px" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
 </div>
      
 <div style="display: inline_block"><br>

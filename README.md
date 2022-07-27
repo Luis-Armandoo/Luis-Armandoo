@@ -26,7 +26,7 @@
  
 
 <p align=center>
-	<img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&color=DC0000F0&background=23A90100&center=falso&vCenter=falso&width=550&height=70&lines=Carregando...;---%3EOl%C3%A1!+Tudo+bom%3F%3C---;Me+chamo+Luis+Armando;e+sou+desenvolvedor+j%C3%BAnior;Gosto+de+criar%2C+adaptar+e+facilitar" />
+	<img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=6000&color=9910CA&background=23A90100&center=verdadeiro&vCenter=verdadeiro&width=650&lines=Meu+nome+%C3%A9+Luis+Armando;Sou+Dev+J%C3%BAnior;Sempre+em+busca+de+conhecimeto"/>
 	     
 <p>
 

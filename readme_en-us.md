@@ -27,18 +27,7 @@ Welcome to my Profile!!!
 <p>
 
 
-<h1 align="center">👨‍💻 More about me 👨‍💻</h1>
+<img align="right" width="420px" height="359px" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
 
-<img align="right" width="420px" height="359px" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif" />
-
-
-<h1></h1>
-
-<div align="center">
-  <a href="https://www.youtube.com/channel/UC_4ER_KHcnb-ZBrsD64bGWQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_foxzada_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-	
-</div>	
 
 ![Snake animation](https://github.com/Luis-Armandoo/Luis-Armandoo/blob/output/github-contribution-grid-snake.svg)

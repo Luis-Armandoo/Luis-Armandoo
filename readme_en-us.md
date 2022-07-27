@@ -27,7 +27,7 @@ Welcome to my Profile!!!
 <p>
 
 
-<img align="right" width="420px" height="359px" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
+<img width="420px" height="420px" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
 
 
 ![Snake animation](https://github.com/Luis-Armandoo/Luis-Armandoo/blob/output/github-contribution-grid-snake.svg)

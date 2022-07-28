@@ -38,7 +38,7 @@
 <h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"> Estatísticas do GitHub <img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"></h2>
 
 <details> 
-<summary align="center">🟣 Estatísticas do perfil do GitHub (clique aqui para ver mais)</summary>
+<summary align="center">🟣 Minhas Estatísticas do GitHub (Veja mais clicando aqui)</summary>
 	<br/
 	    
 <div align="center">

@@ -35,10 +35,10 @@
 
 
 
-<h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"> Estatísticas <img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"></h2>
+<h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"> Minhas Estatísticas <img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"></h2>
 
 <details> 
-<summary align="center">🟣 Minhas Estatísticas do GitHub (Veja mais clicando aqui)</summary>
+<summary align="center">(Veja mais clicando aqui)</summary>
 	<br/
 	    
 <div align="center">

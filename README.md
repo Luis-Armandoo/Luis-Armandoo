@@ -35,7 +35,7 @@
 
 
 
-<h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"> Estatísticas do GitHub <img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"></h2>
+<h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"> Estatísticas <img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"></h2>
 
 <details> 
 <summary align="center">🟣 Minhas Estatísticas do GitHub (Veja mais clicando aqui)</summary>

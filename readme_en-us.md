@@ -31,10 +31,10 @@ Welcome to my Profile!!!
 <p>
 
 	
-<h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"> Estatísticas do GitHub <img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"></h2>
+<h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"> My statistics <img width="30px" alt="icon-bar-chart" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien-monster_1f47e.png"></h2>
 
 <details> 
-<summary align="center">🟣 Estatísticas do perfil do GitHub (clique aqui para ver mais)</summary>
+<summary align="center">(click here to see more)</summary>
 	<br/
 	    
 <div align="center">
